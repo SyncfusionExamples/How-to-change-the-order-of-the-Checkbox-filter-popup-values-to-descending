@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "WINUI_DataGridDemos (Package)": {
+      "commandName": "MsixPackage"
+    },
+    "WINUI_DataGridDemos (Unpackaged)": {
+      "commandName": "Project"
+    }
+  }
+}
